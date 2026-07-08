@@ -42,3 +42,7 @@ The system utilizes a modular hardware design coordinated by a central processin
                             |   16x2 LCD Panel   |    |  Red / Green LEDs  |    |    Piezo Buzzer    |
                             |   (I2C Protocol)   |[cite: 1]| (Status Indicators)|[cite: 1]| (Auditory Alerts)  |[cite: 1]
                             +--------------------+    +--------------------+    +--------------------+
+
+| 🔌 Circuit Schematic | 🛠️ Hardware Prototype |
+| :---: | :---: |
+| ![Smart Shopping Trolley Schematic](schematic.png) | ![Smart Shopping Trolley Prototype](prototype.jpg) |
