@@ -32,7 +32,7 @@ The system utilizes a modular hardware design coordinated by a central processin
 ```text
 +------------------+       +-------------------+       +--------------------+
 |  Passive RFID    | ----> |  EM18 RFID Reader | ----> |   Arduino Nano     |
-|   Product Tag    |[cite: 1]|      Module       |[cite: 1]|  Microcontroller   |[cite: 1]
+|   Product Tag    |       |      Module       |       |  Microcontroller   |
 +------------------+       +-------------------+       +---------+----------+
                                                                  |
                                        +-------------------------+-------------------------+
@@ -40,7 +40,7 @@ The system utilizes a modular hardware design coordinated by a central processin
                                        v                         v                         v
                             +--------------------+    +--------------------+    +--------------------+
                             |   16x2 LCD Panel   |    |  Red / Green LEDs  |    |    Piezo Buzzer    |
-                            |   (I2C Protocol)   |[cite: 1]| (Status Indicators)|[cite: 1]| (Auditory Alerts)  |[cite: 1]
+                            |   (I2C Protocol)   |    | (Status Indicators)|    |  (Auditory Alerts) |
                             +--------------------+    +--------------------+    +--------------------+
 
 | 🔌 Circuit Schematic | 🛠️ Hardware Prototype |
