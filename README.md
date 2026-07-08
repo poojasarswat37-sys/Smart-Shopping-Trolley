@@ -42,6 +42,7 @@ The system utilizes a modular hardware design coordinated by a central processin
                             |   16x2 LCD Panel   |    |  Red / Green LEDs  |    |    Piezo Buzzer    |
                             |   (I2C Protocol)   |    | (Status Indicators)|    |  (Auditory Alerts) |
                             +--------------------+    +--------------------+    +--------------------+
+```
 
 | 🔌 Circuit Schematic | 🛠️ Hardware Prototype |
 | :---: | :---: |
