@@ -14,6 +14,15 @@ This project introduces an intelligent shopping cart that handles billing on the
 
 ---
 
+
+## 📂 Project Documentation
+
+To read the complete project proposal, methodologies, and academic scope, you can access the full official document here:
+
+> 📄 **[Click Here to Read the Full Project Synopsis](./Synopsis.pdf)**
+
+---
+
 ## 🛠️ Hardware Architecture & Component Description
 
 The system utilizes a modular hardware design coordinated by a central processing unit:
