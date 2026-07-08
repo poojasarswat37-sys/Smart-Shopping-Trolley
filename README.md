@@ -45,4 +45,4 @@ The system utilizes a modular hardware design coordinated by a central processin
 
 | 🔌 Circuit Schematic | 🛠️ Hardware Prototype |
 | :---: | :---: |
-| ![Smart Shopping Trolley Schematic](schematic.png) | ![Smart Shopping Trolley Prototype](prototype.jpg) |
+| ![Smart Shopping Trolley Schematic](schematic.png) | ![Smart Shopping Trolley Prototype](prototype.jpeg) |
