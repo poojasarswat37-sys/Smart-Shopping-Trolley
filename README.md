@@ -19,7 +19,7 @@ This project introduces an intelligent shopping cart that handles billing on the
 
 To read the complete project proposal, methodologies, and academic scope, you can access the full official document here:
 
-> 📄 **[Click Here to Read the Full Project Synopsis](./Synopsis.pdf)**
+> 📄 **[Click Here to Read the Full Project Synopsis](./Project_Synopsis.pdf)**
 
 ---
 
